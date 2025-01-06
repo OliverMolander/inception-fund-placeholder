@@ -8,8 +8,9 @@ const Index = () => {
           <LoadingSpinner />
           <span className="text-xl">Loading...</span>
         </div>
-        <h2 className="mt-8 text-2xl md:text-4xl font-medium tracking-tight">
-          Change will never be this slow again.
+        <h2 className="mt-8 text-2xl md:text-4xl font-medium tracking-tight flex flex-col md:block">
+          <span>Change will never</span>
+          <span className="md:inline-block md:ml-1">be this slow again.</span>
         </h2>
       </div>
     </div>
