@@ -9,7 +9,7 @@ const Index = () => {
           <span className="text-xl">Loading...</span>
         </div>
         <h2 className="mt-8 text-2xl md:text-4xl font-medium tracking-tight">
-          Change will never be this slow again
+          Change will never be this slow again.
         </h2>
       </div>
     </div>
